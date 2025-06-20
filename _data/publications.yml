@@ -1,7 +1,7 @@
 main:
 
 
-  - title: ScaffoldSketch: Accurate Industrial Design Drawing in VR
+  - title: "ScaffoldSketch: Accurate Industrial Design Drawing in VR"
     authors: Xue Yu, Stephen DiVerdi, Akshay Sharma, Yotam Gingold 
     conference_short: UIST 2021
     conference: ACM Symposium on User Interface Software and Technology (UIST) 2021.
@@ -10,7 +10,7 @@ main:
 
 
 
-  - title: A Scaffold-Based Tool for Product Design Variations in Virtual Reality
+  - title: "A Scaffold-Based Tool for Product Design Variations in Virtual Reality"
     authors: Xue Yu, Stephen DiVerdi, Yotam Gingold 
     conference_short: CHI 2025
     conference: ACM CHI conference on Human Factors in Computing Systems 2025
