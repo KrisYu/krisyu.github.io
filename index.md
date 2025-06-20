@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in [George Mason University](https://www.gmu.edu). My academic advisor is [Yotam Gingold](https://cragl.cs.gmu.edu). I virtually interned at Adobe Research in summer 2020, May to Aug. [Stephen DiVerdi](http://www.stephendiverdi.com) has been a great mentor for me.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Graphics:** geometric modeling, 2D/3D drawing interfaces.
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
