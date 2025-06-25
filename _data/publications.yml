@@ -1,5 +1,12 @@
 main:
 
+  - title: "A Scaffold-Based Tool for Product Design Variations in Virtual Reality"
+    authors: Xue Yu, Stephen DiVerdi, Yotam Gingold 
+    conference_short: CHI 2025
+    conference: ACM CHI conference on Human Factors in Computing Systems 2025
+    page: https://cragl.cs.gmu.edu/movescaffold/
+    image: ./assets/img/move_scaffold.jpg
+    
 
   - title: "ScaffoldSketch: Accurate Industrial Design Drawing in VR"
     authors: Xue Yu, Stephen DiVerdi, Akshay Sharma, Yotam Gingold 
@@ -9,13 +16,6 @@ main:
     image: ./assets/img/scaffold_sketch.jpg
 
 
-
-  - title: "A Scaffold-Based Tool for Product Design Variations in Virtual Reality"
-    authors: Xue Yu, Stephen DiVerdi, Yotam Gingold 
-    conference_short: CHI 2025
-    conference: ACM CHI conference on Human Factors in Computing Systems 2025
-    page: https://cragl.cs.gmu.edu/movescaffold/
-    image: ./assets/img/move_scaffold.jpg
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
